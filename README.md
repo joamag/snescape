@@ -1,2 +1,3 @@
-# snescape
-A snes emulator built with a Rust language 🦀
+# Sbescape
+
+A SNES emulator built with a Rust language 🦀
