@@ -1,7 +1,7 @@
 struct Cpu {}
 
 impl Cpu {
-    fn new() -> Cpu {
+    fn new() -> Self {
         Cpu {}
     }
 

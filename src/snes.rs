@@ -1,7 +1,7 @@
 struct Snes {}
 
 impl Snes {
-    pub fn new() -> Snes {
+    pub fn new() -> Self {
         Snes {}
     }
 
