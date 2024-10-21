@@ -1,0 +1,13 @@
+*.pyc
+*.pyd
+
+.DS_Store
+
+Cargo.lock
+
+/.vscode/settings.json
+
+/.venv
+
+/target
+/aarch64-linux-gnu
