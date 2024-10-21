@@ -1,3 +1,3 @@
 # Sbescape
 
-A SNES emulator built with a Rust language 🦀
+A SNES emulator crafted Rust language 🦀!
